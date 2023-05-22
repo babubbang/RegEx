@@ -59,3 +59,5 @@ a.b는 "aab" 또는 "a0b"와 같이 a와 b사이에 어떤 문자가 들어가�
  - <b>\S</b> : whitespace 문자가 아닌 것과 매치<br>
  - <b>\w</b> : 문자 + 숫자와 매치<br>
  - <b>\W</b> : 문자 + 숫자가 아닌 문자와 매치<br>
+
+reference(참조) : https://www.youtube.com/watch?v=Gg0tlbrxJSc | https://wikidocs.net/1642 | https://www.youtube.com/watch?v=dTDoTR0MXjU&t=285s | https://wikidocs.net/4308
