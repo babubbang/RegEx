@@ -47,3 +47,6 @@ text = '10 apples, 20 bananas, 30 oranges'
 matches = re.finditer(pattern, text)
 for match in matches:
     print('일치하는 패턴:', match.group())
+
+     
+#reference(참조) : chat-GPT
