@@ -20,7 +20,7 @@
    - <b>re.findall()</b> : 정규식과 매치되는 모든 문자열(substring)을 리스트로 리턴한다. <br>
    - <b>re.finditer()</b> : 정규식과 매치되는 모든 문자열(substring)을 반복 가능한 객체로 리턴한다. | finditer는 findall과 동일하지만 그 결과로 반복 가능한 객체(iterator object)를 리턴한다. <br>
    
-  <match 객체의 메서드><br>
+  <match 객체의 메서드>
    - <b>match.group()</b> :	매치된 문자열을 리턴한다. <br>
    - <b>match.start()</b>	: 매치된 문자열의 시작 위치를 리턴한다. <br>
    - <b>match.end()</b> :	매치된 문자열의 끝 위치를 리턴한다. <br>
