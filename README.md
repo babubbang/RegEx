@@ -17,4 +17,5 @@
   <패턴 객체를 이용하는 4가지 방법><br>
    - re.match() : 문자열의 처음부터 정규식과 매치되는지 조사한다. | match의 결과로 match객체 혹은 None을 리턴해준다. <br>
    - re.search() : 문자열 전체를 검색하여 정규식과 매치되는지 조사한다. | match 메서드와 search 메서드는 문자열의 처음부터 검색할지의 여부에 따라 다르게 사용해야 한다. <br>
-  
+   - re.findall() : 정규식과 매치되는 모든 문자열(substring)을 리스트로 리턴한다. <br>
+   - re.finditer() : 정규식과 매치되는 모든 문자열(substring)을 반복 가능한 객체로 리턴한다. | finditer는 findall과 동일하지만 그 결과로 반복 가능한 객체(iterator object)를 리턴한다. <br>
